@@ -1314,45 +1314,135 @@
     "sale_price": null
   },
   {
-    "name": "Agricultural Funding Manual & Contact Directory",
-    "sku": "SERV-FUNDING",
-    "price": 250,
+    "name": "Chlorella Vulgaris Live Mother Culture - 100L",
+    "sku": "CHL-100L",
+    "price": 54999,
     "sale_price": null
   },
   {
-    "name": "One-on-One Consultation (1.5 hours)",
-    "sku": "SERV-1ON1",
-    "price": 250,
+    "name": "Chlorella Vulgaris Live Mother Culture - 50L",
+    "sku": "CHL-50L",
+    "price": 29999,
     "sale_price": null
   },
   {
-    "name": "Video Consultation",
-    "sku": "SERV-VIDEO",
-    "price": 250,
+    "name": "Chlorella Vulgaris Live Mother Culture - 20L",
+    "sku": "CHL-20L",
+    "price": 12499,
     "sale_price": null
   },
   {
-    "name": "Farm Visit & Consultation Package",
-    "sku": "SERV-FARMVISIT",
-    "price": 850,
+    "name": "Chlorella Vulgaris Live Mother Culture - 10L",
+    "sku": "CHL-10L",
+    "price": 6499,
     "sale_price": null
   },
   {
-    "name": "Premium Genetics Consultation",
-    "sku": "SERV-PREMGEN",
-    "price": 850,
+    "name": "Chlorella Vulgaris Live Mother Culture - 5L",
+    "sku": "CHL-5L",
+    "price": 3499,
     "sale_price": null
   },
   {
-    "name": "Farm Setup Consulting Package",
-    "sku": "SERV-FARMSETUP",
-    "price": 1850,
+    "name": "Chlorella Vulgaris Live Mother Culture - 1L",
+    "sku": "CHL-1L",
+    "price": 849,
     "sale_price": null
   },
   {
-    "name": "Cutting Rooting Service",
-    "sku": "SERV-ROOTING",
-    "price": 30,
+    "name": "Chlorella Vulgaris Live Mother Culture - 500ML",
+    "sku": "CHL-500ML",
+    "price": 449,
+    "sale_price": null
+  },
+  {
+    "name": "Chlorella Vulgaris Live Mother Culture - 250ML",
+    "sku": "CHL-250ML",
+    "price": 249,
+    "sale_price": null
+  },
+  {
+    "name": "Chlorella Vulgaris Live Culture - 100L (Institutional 35% Payable)",
+    "sku": "CHL-100L-INST",
+    "price": 19249.65,
+    "sale_price": null
+  },
+  {
+    "name": "Chlorella Vulgaris Live Culture - 50L (Institutional 35% Payable)",
+    "sku": "CHL-50L-INST",
+    "price": 10499.65,
+    "sale_price": null
+  },
+  {
+    "name": "Chlorella Vulgaris Live Culture - 20L (Institutional 35% Payable)",
+    "sku": "CHL-20L-INST",
+    "price": 4374.65,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Mother Culture - 100L",
+    "sku": "SPI-100L",
+    "price": 54999,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Mother Culture - 50L",
+    "sku": "SPI-50L",
+    "price": 29999,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Mother Culture - 20L",
+    "sku": "SPI-20L",
+    "price": 12499,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Mother Culture - 10L",
+    "sku": "SPI-10L",
+    "price": 6499,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Mother Culture - 5L",
+    "sku": "SPI-5L",
+    "price": 3499,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Mother Culture - 1L",
+    "sku": "SPI-1L",
+    "price": 849,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Mother Culture - 500ML",
+    "sku": "SPI-500ML",
+    "price": 449,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Mother Culture - 250ML",
+    "sku": "SPI-250ML",
+    "price": 249,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Culture - 100L (Institutional 35% Payable)",
+    "sku": "SPI-100L-INST",
+    "price": 19249.65,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Culture - 50L (Institutional 35% Payable)",
+    "sku": "SPI-50L-INST",
+    "price": 10499.65,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Culture - 20L (Institutional 35% Payable)",
+    "sku": "SPI-20L-INST",
+    "price": 4374.65,
     "sale_price": null
   }
 ]
