@@ -1,1 +1,1580 @@
-[{"name":"Widget A","sku":"001","price":10.0,"sale_price":null},{"name":"Cheesecloth - 100% Cotton","sku":"ACC-CHEESECLOTH","price":69.0,"sale_price":null},{"name":"Nut Milk Bag - Organic Cotton","sku":"ACC-NUTBAG-COTTON","price":89.0,"sale_price":null},{"name":"Fine Mesh Strainer Set","sku":"ACC-STRAINER-SET","price":129.0,"sale_price":null},{"name":"Natural Brown Sugar - 10kg","sku":"BULK-SUGAR-10KG","price":349.0,"sale_price":null},{"name":"Natural Brown Sugar - 25kg","sku":"BULK-SUGAR-25KG","price":749.0,"sale_price":null},{"name":"Natural Brown Sugar - 2kg","sku":"BULK-SUGAR-2KG","price":89.0,"sale_price":null},{"name":"Natural Brown Sugar - 50kg","sku":"BULK-SUGAR-50KG","price":1349.0,"sale_price":null},{"name":"Complete Fermentation Starter Kit","sku":"BUNDLE-FERMENT","price":899.0,"sale_price":null},{"name":"Kefir Starter Bundle","sku":"BUNDLE-KEFIR","price":449.0,"sale_price":null},{"name":"Fresh Wheatgrass Tray","sku":"CROP-WG-TRAY","price":80.0,"sale_price":null},{"name":"Apple Cider Vinegar Mother","sku":"CULT-ACV","price":200.0,"sale_price":null},{"name":"Raw Apple Cider Vinegar Mother – 10 Live Cultures Combo (Dairy-Free Starter Kit)","sku":"CULT-ACV-10COMBO","price":1400.0,"sale_price":null},{"name":"Buttermilk Culture","sku":"CULT-BUTTERMILK","price":149.0,"sale_price":null},{"name":"Chlorella Vulgaris Live Culture 10 Litres","sku":"CULT-CHL-10L","price":6499.0,"sale_price":null},{"name":"Chlorella Vulgaris Live Culture 1 Litre","sku":"CULT-CHL-1L","price":849.0,"sale_price":null},{"name":"Chlorella Vulgaris Live Culture 20 Litres","sku":"CULT-CHL-20L","price":12499.0,"sale_price":null},{"name":"Chlorella Vulgaris Live Culture 250ml","sku":"CULT-CHL-250ML","price":249.0,"sale_price":null},{"name":"Chlorella Vulgaris Live Culture 500ml","sku":"CULT-CHL-500ML","price":449.0,"sale_price":null},{"name":"Chlorella Vulgaris Live Culture 50 Litres","sku":"CULT-CHL-50L","price":29999.0,"sale_price":null},{"name":"Chlorella Vulgaris Live Culture 5 Litres","sku":"CULT-CHL-5L","price":3499.0,"sale_price":null},{"name":"Coconut Milk Kefir Starter","sku":"CULT-COCO-MK","price":350.0,"sale_price":null},{"name":"Genuine Live Ginger Beer Plant (GBP)","sku":"CULT-GBP","price":200.0,"sale_price":null},{"name":"Ginger Bug Starter Culture","sku":"CULT-GINGERBUG","price":200.0,"sale_price":null},{"name":"Black Tea Kombucha SCOBY","sku":"CULT-KOMB-BLACK","price":200.0,"sale_price":null},{"name":"Coffee Kombucha SCOBY","sku":"CULT-KOMB-COFFEE","price":250.0,"sale_price":null},{"name":"Green Tea Kombucha SCOBY","sku":"CULT-KOMB-GREEN","price":250.0,"sale_price":null},{"name":"Rooibos Kombucha SCOBY","sku":"CULT-KOMB-ROOIBOS","price":250.0,"sale_price":null},{"name":"Lacto Fermentation Starter","sku":"CULT-LACTO","price":149.0,"sale_price":null},{"name":"Milk Kefir Grains (Live Culture)","sku":"CULT-MK","price":200.0,"sale_price":null},{"name":"Natto Starter Culture","sku":"CULT-NATTO","price":219.0,"sale_price":null},{"name":"Red Wine Vinegar Mother","sku":"CULT-RWV","price":200.0,"sale_price":null},{"name":"Rye Sourdough Starter","sku":"CULT-SD-RYE","price":200.0,"sale_price":null},{"name":"White Bread Sourdough Starter","sku":"CULT-SD-WHITE","price":200.0,"sale_price":null},{"name":"Wholegrain Sourdough Starter","sku":"CULT-SD-WHOLE","price":200.0,"sale_price":null},{"name":"Spirulina Platensis Live Culture 10 Litres","sku":"CULT-SPI-10L","price":6499.0,"sale_price":null},{"name":"Spirulina Platensis Live Culture 1 Litre","sku":"CULT-SPI-1L","price":849.0,"sale_price":null},{"name":"Spirulina Platensis Live Culture 20 Litres","sku":"CULT-SPI-20L","price":12499.0,"sale_price":null},{"name":"Spirulina Platensis Live Culture 250ml","sku":"CULT-SPI-250ML","price":249.0,"sale_price":null},{"name":"Spirulina Platensis Live Culture 500ml","sku":"CULT-SPI-500ML","price":449.0,"sale_price":null},{"name":"Spirulina Platensis Live Culture 50 Litres","sku":"CULT-SPI-50L","price":29999.0,"sale_price":null},{"name":"Spirulina Platensis Live Culture 5 Litres","sku":"CULT-SPI-5L","price":3499.0,"sale_price":null},{"name":"Tempeh Starter Culture","sku":"CULT-TEMPEH","price":199.0,"sale_price":null},{"name":"Water Kefir Grains (Live Culture – Dairy-Free)","sku":"CULT-WK","price":200.0,"sale_price":null},{"name":"Water Kefir Grains Bulk Pack (10 Live Cultures – Dairy-Free)","sku":"CULT-WK-BULK10","price":1400.0,"sale_price":null},{"name":"White Wine Vinegar Mother","sku":"CULT-WWV","price":200.0,"sale_price":null},{"name":"Bulgarian Yogurt Culture","sku":"CULT-YOG-BULG","price":179.0,"sale_price":null},{"name":"Greek Yogurt Culture","sku":"CULT-YOG-GREEK","price":179.0,"sale_price":null},{"name":"Black Dragon Dark Flesh Cutting","sku":"CUT-BLACK-DARK","price":1799.97,"sale_price":null},{"name":"Black Dragon Fruit Cutting","sku":"CUT-BLACKDRAGON","price":500.0,"sale_price":null},{"name":"Lemon Lime Variegated Dragon Fruit – Unrooted Cutting","sku":"CUT-LEMONLIME-VAR","price":1000.0,"sale_price":null},{"name":"Purple Haze Cutting","sku":"CUT-PURPLEHAZE","price":400.0,"sale_price":null},{"name":"Ruby Red Dragon Fruit Cuttings (4 Pack)","sku":"CUT-RUBY-4PK","price":350.0,"sale_price":null},{"name":"Ruby Red Purple Flesh Cutting","sku":"CUT-RUBY-PURPLE","price":350.0,"sale_price":null},{"name":"Worth Variegated Dragon Fruit – Unrooted Cutting","sku":"CUT-WORTH-VAR","price":1000.0,"sale_price":null},{"name":"Yellow Amarillo Dragon Fruit Cutting","sku":"CUT-YELLOWAMARILLO","price":450.0,"sale_price":null},{"name":"Mixed Dragon Fruit Plants Combo (5 Premium Varieties)","sku":"DF-COMBO-5","price":1000.0,"sale_price":null},{"name":"150 Purple Haze Dragon Fruit Plants","sku":"DF-PH-150","price":15000.0,"sale_price":null},{"name":"Purple Haze Dragon Fruit Plants - 600 Plant Commercial Plant Tray Pack","sku":"DF-PH-600","price":32000.0,"sale_price":null},{"name":"Black Dragon Fruit Africana Hybrid (Premium Rare Variety)","sku":"DF-RARE-BLACKAF","price":4500.0,"sale_price":null},{"name":"1000 Ruby Dragon Fruit Plants","sku":"DF-RUBY-1000","price":28000.0,"sale_price":null},{"name":"Ruby Dragon Fruit Plants - 150 Plant Commercial Plant Tray Pack","sku":"DF-RUBY-150","price":5700.0,"sale_price":null},{"name":"600 Ruby Dragon Fruit Plants","sku":"DF-RUBY-600","price":18000.0,"sale_price":null},{"name":"Sweet White Dragon Fruit Plants – 1000 Plant Commercial Plant Tray Pack","sku":"DF-SWC-1000","price":28000.0,"sale_price":null},{"name":"Sweet White Dragon Fruit Plants – 600 Plant Commercial Plant Tray Pack","sku":"DF-SWC-600","price":18000.0,"sale_price":null},{"name":"Alice Sweet","sku":"DF-VAR-ALICESWEET","price":400.0,"sale_price":null},{"name":"American Beauty","sku":"DF-VAR-AMBEAUTY","price":400.0,"sale_price":null},{"name":"Amazon Yellow","sku":"DF-VAR-AMZYELLOW","price":3000.0,"sale_price":null},{"name":"Armando","sku":"DF-VAR-ARMANDO","price":400.0,"sale_price":null},{"name":"Asunta 1","sku":"DF-VAR-ASUNTA1","price":400.0,"sale_price":null},{"name":"Asunta 2","sku":"DF-VAR-ASUNTA2","price":400.0,"sale_price":null},{"name":"Asunta 3","sku":"DF-VAR-ASUNTA3","price":400.0,"sale_price":null},{"name":"Asunta 5","sku":"DF-VAR-ASUNTA5","price":400.0,"sale_price":null},{"name":"Ax","sku":"DF-VAR-AX","price":400.0,"sale_price":null},{"name":"Arizona Purple","sku":"DF-VAR-AZPURPLE","price":400.0,"sale_price":null},{"name":"Baby Cerrado","sku":"DF-VAR-BABYCERRADO","price":400.0,"sale_price":null},{"name":"Bahamut","sku":"DF-VAR-BAHAMUT","price":400.0,"sale_price":null},{"name":"Black Dragon","sku":"DF-VAR-BLACKDRAGON","price":850.0,"sale_price":null},{"name":"Bloody Mary","sku":"DF-VAR-BLOODYMARY","price":400.0,"sale_price":null},{"name":"Boreal Red","sku":"DF-VAR-BOREALRED","price":400.0,"sale_price":null},{"name":"Bruni","sku":"DF-VAR-BRUNI","price":400.0,"sale_price":null},{"name":"Bundy Red Hybrid","sku":"DF-VAR-BUNDYRED","price":400.0,"sale_price":null},{"name":"Chameleon","sku":"DF-VAR-CHAMELEON","price":600.0,"sale_price":null},{"name":"Red Green Chimera","sku":"DF-VAR-CHIMERA","price":1000.0,"sale_price":null},{"name":"Colombian Yellow","sku":"DF-VAR-COLYELLOW","price":600.0,"sale_price":null},{"name":"Condor","sku":"DF-VAR-CONDOR","price":400.0,"sale_price":null},{"name":"Connie Mayer","sku":"DF-VAR-CONNIEMAYER","price":400.0,"sale_price":null},{"name":"Cosmic Charlie","sku":"DF-VAR-COSMIC","price":400.0,"sale_price":null},{"name":"Dark Star","sku":"DF-VAR-DARKSTAR","price":400.0,"sale_price":null},{"name":"David Bowie","sku":"DF-VAR-DAVIDBOWIE","price":400.0,"sale_price":null},{"name":"Delight","sku":"DF-VAR-DELIGHT","price":400.0,"sale_price":null},{"name":"Desert King","sku":"DF-VAR-DESERTKING","price":600.0,"sale_price":null},{"name":"Desert Princess","sku":"DF-VAR-DESERTPRIN","price":600.0,"sale_price":null},{"name":"Ecuador Palora","sku":"DF-VAR-ECU PALORA","price":800.0,"sale_price":null},{"name":"Edgars Baby","sku":"DF-VAR-EDGARSBABY","price":600.0,"sale_price":null},{"name":"Godzilla","sku":"DF-VAR-GODZILLA","price":2800.0,"sale_price":null},{"name":"Golden Variegated","sku":"DF-VAR-GOLDENVAR","price":3000.0,"sale_price":null},{"name":"Halleys Comet","sku":"DF-VAR-HALLEYSCOMET","price":400.0,"sale_price":null},{"name":"Harpua","sku":"DF-VAR-HARPUA","price":400.0,"sale_price":null},{"name":"Hawaiian Red","sku":"DF-VAR-HAWAIIANRED","price":400.0,"sale_price":null},{"name":"Hells Boy","sku":"DF-VAR-HELLSBOY","price":400.0,"sale_price":null},{"name":"Houghton","sku":"DF-VAR-HOUGHTON","price":400.0,"sale_price":null},{"name":"King Kong","sku":"DF-VAR-KINGKONG","price":400.0,"sale_price":null},{"name":"Lake Atitlan","sku":"DF-VAR-LAKEATITLAN","price":400.0,"sale_price":null},{"name":"La Verne Red","sku":"DF-VAR-LAVERNERED","price":1000.0,"sale_price":null},{"name":"Lime Variegated","sku":"DF-VAR-LIMEVAR","price":1500.0,"sale_price":null},{"name":"Lisa","sku":"DF-VAR-LISA","price":400.0,"sale_price":null},{"name":"M1","sku":"DF-VAR-M1","price":400.0,"sale_price":null},{"name":"Makisupa","sku":"DF-VAR-MAKISUPA","price":400.0,"sale_price":null},{"name":"Maria Rosa","sku":"DF-VAR-MARIAROSA","price":400.0,"sale_price":null},{"name":"Ocamponis","sku":"DF-VAR-OCAMPONIS","price":400.0,"sale_price":null},{"name":"Orejona","sku":"DF-VAR-OREJONA","price":400.0,"sale_price":null},{"name":"Paul Thompson","sku":"DF-VAR-PAULTHOMPSON","price":400.0,"sale_price":null},{"name":"Peruvian Yellow","sku":"DF-VAR-PERYELLOW","price":800.0,"sale_price":null},{"name":"Physical Graffiti","sku":"DF-VAR-PHYSGRAFFITI","price":400.0,"sale_price":null},{"name":"Pure Gold","sku":"DF-VAR-PUREGOLD","price":2000.0,"sale_price":null},{"name":"Purple Haze","sku":"DF-VAR-PURPLEHAZE","price":400.0,"sale_price":null},{"name":"Purple Megalanthus","sku":"DF-VAR-PURPLEMEG","price":400.0,"sale_price":null},{"name":"Rainbow","sku":"DF-VAR-RAINBOW","price":600.0,"sale_price":null},{"name":"Red Crystal","sku":"DF-VAR-REDCRYSTAL","price":400.0,"sale_price":null},{"name":"Red Jaina","sku":"DF-VAR-REDJAINA","price":400.0,"sale_price":null},{"name":"Rixford","sku":"DF-VAR-RIXFORD","price":400.0,"sale_price":null},{"name":"Ruby Red","sku":"DF-VAR-RUBYRED","price":350.0,"sale_price":null},{"name":"Seoul Kitchen","sku":"DF-VAR-SEOULKITCHEN","price":400.0,"sale_price":null},{"name":"Sin Espinas","sku":"DF-VAR-SINESPINAS","price":400.0,"sale_price":null},{"name":"S. Setaceus","sku":"DF-VAR-SSETACEUS","price":400.0,"sale_price":null},{"name":"Sugar Dragon S8","sku":"DF-VAR-SUGARDRAGONS8","price":400.0,"sale_price":null},{"name":"Super Shenro","sku":"DF-VAR-SUPERSHENRO","price":400.0,"sale_price":null},{"name":"Thick King","sku":"DF-VAR-THICKKING","price":400.0,"sale_price":null},{"name":"Townsend Pink","sku":"DF-VAR-TOWNSEND","price":400.0,"sale_price":null},{"name":"Tricia","sku":"DF-VAR-TRICIA","price":400.0,"sale_price":null},{"name":"Trish Red","sku":"DF-VAR-TRISHRED","price":400.0,"sale_price":null},{"name":"Valdivia Roja","sku":"DF-VAR-VALDIVIA","price":400.0,"sale_price":null},{"name":"Vietnam Green Skin Red Flesh","sku":"DF-VAR-VIETGREENRED","price":600.0,"sale_price":null},{"name":"Vietnamese Jaina","sku":"DF-VAR-VIETJAINA","price":320.0,"sale_price":null},{"name":"Voodoo Child","sku":"DF-VAR-VOODOOCHILD","price":400.0,"sale_price":null},{"name":"White Crystal","sku":"DF-VAR-WHITECRYSTAL","price":400.0,"sale_price":null},{"name":"White King Hollywood","sku":"DF-VAR-WHITEKINGHW","price":400.0,"sale_price":null},{"name":"White Sapphire","sku":"DF-VAR-WHITESAPH","price":400.0,"sale_price":null},{"name":"White Supreme","sku":"DF-VAR-WHITESUP","price":400.0,"sale_price":null},{"name":"Yellow Amarillo","sku":"DF-VAR-YELLOWAMARILLO","price":1000.0,"sale_price":null},{"name":"Yellow Gold","sku":"DF-VAR-YELLOWGOLD","price":3500.0,"sale_price":null},{"name":"Yellow Phalora","sku":"DF-VAR-YELPHALORA","price":1000.0,"sale_price":null},{"name":"Zamorano","sku":"DF-VAR-ZAMORANO","price":400.0,"sale_price":null},{"name":"Zorro","sku":"DF-VAR-ZORRO","price":400.0,"sale_price":null},{"name":"1000 Zamorano Dragon Fruit Plants","sku":"DF-ZAM-1000","price":23000.0,"sale_price":null},{"name":"Zamorano Dragon Fruit Plants - 150 Plant Commercial Plant Tray Pack","sku":"DF-ZAM-150","price":15000.0,"sale_price":null},{"name":"Zamorano Dragon Fruit Plants - 600 Golden (Israel) - 600 Plant Commercial Plant Tray Pack","sku":"DF-ZAM-600G","price":18000.0,"sale_price":null},{"name":"FARM-050-PLANTS-RUBY™","sku":"FARM-050-RUBY","price":2400.0,"sale_price":null},{"name":"FARM-100-PLANTS-RUBY™","sku":"FARM-100-RUBY","price":4300.0,"sale_price":null},{"name":"FARM-1000-PLANTS-RUBY™","sku":"FARM-1000-RUBY","price":26000.0,"sale_price":null},{"name":"FARM-150-PLANTS-RUBY™","sku":"FARM-150-RUBY","price":6000.0,"sale_price":null},{"name":"FARM-150-PLANTS-SWEET-WHITE-CRYSTAL™","sku":"FARM-150-SWC","price":8250.0,"sale_price":null},{"name":"FARM-200-PLANTS-RUBY™","sku":"FARM-200-RUBY","price":7600.0,"sale_price":null},{"name":"FARM-200-PLANTS-SWEET-WHITE-CRYSTAL™","sku":"FARM-200-SWC","price":10800.0,"sale_price":null},{"name":"FARM-250-PLANTS-RUBY™","sku":"FARM-250-RUBY","price":9000.0,"sale_price":null},{"name":"FARM-250-PLANTS-SWEET-WHITE-CRYSTAL™","sku":"FARM-250-SWC","price":13250.0,"sale_price":null},{"name":"FARM-300-PLANTS-RUBY™","sku":"FARM-300-RUBY","price":10200.0,"sale_price":null},{"name":"FARM-300-PLANTS-SWEET-WHITE-CRYSTAL™","sku":"FARM-300-SWC","price":15600.0,"sale_price":null},{"name":"FARM-400-PLANTS-RUBY™","sku":"FARM-400-RUBY","price":13200.0,"sale_price":null},{"name":"FARM-400-PLANTS-SWEET-WHITE-CRYSTAL™","sku":"FARM-400-SWC","price":20400.0,"sale_price":null},{"name":"FARM-500-PLANTS-RUBY™","sku":"FARM-500-RUBY","price":16000.0,"sale_price":null},{"name":"FARM-500-PLANTS-SWEET-WHITE-CRYSTAL™","sku":"FARM-500-SWC","price":25000.0,"sale_price":null},{"name":"FARM-600-PLANTS-RUBY™","sku":"FARM-600-RUBY","price":18000.0,"sale_price":null},{"name":"FARM-600-PLANTS-SWEET-WHITE-CRYSTAL™","sku":"FARM-600-SWC","price":29400.0,"sale_price":null},{"name":"FARM-700-PLANTS-RUBY™","sku":"FARM-700-RUBY","price":20300.0,"sale_price":null},{"name":"FARM-700-PLANTS-SWEET-WHITE-CRYSTAL™","sku":"FARM-700-SWC","price":33600.0,"sale_price":null},{"name":"FARM-800-PLANTS-RUBY™","sku":"FARM-800-RUBY","price":22400.0,"sale_price":null},{"name":"FARM-900-PLANTS-RUBY™","sku":"FARM-900-RUBY","price":24300.0,"sale_price":null},{"name":"BioGreen A-Z Fertilizer - 1L","sku":"FERT-BIOGREEN-1L","price":299.0,"sale_price":null},{"name":"BioGreen A-Z Fertilizer - 20L","sku":"FERT-BIOGREEN-20L","price":3699.0,"sale_price":null},{"name":"BioGreen A-Z Fertilizer - 5L","sku":"FERT-BIOGREEN-5L","price":1099.0,"sale_price":null},{"name":"Premium Chlorella Growth Fertilizer (1kg Powder)","sku":"FERT-CHL-1KG","price":870.0,"sale_price":545.0},{"name":"Premium Chlorella Growth Fertilizer (250ml Powder)","sku":"FERT-CHL-250ML","price":250.0,"sale_price":null},{"name":"Premium Spirulina Growth Fertilizer (1kg Powder)","sku":"FERT-SPI-1KG","price":870.0,"sale_price":545.0},{"name":"Premium Spirulina Growth Fertilizer (250ml Powder)","sku":"FERT-SPI-250ML","price":250.0,"sale_price":null},{"name":"Frozen Yogurt Powder – Summer Berries Flavour (5L Mix)","sku":"FROYOG-BERRIES-5L","price":350.0,"sale_price":null},{"name":"Frozen Yogurt Powder – Black Currant Flavour (5L Mix)","sku":"FROYOG-BLACKCUR-5L","price":350.0,"sale_price":null},{"name":"Frozen Yogurt Powder – Fruit of the Forest (5L Mix)","sku":"FROYOG-FOF-5L","price":350.0,"sale_price":null},{"name":"Frozen Yogurt Powder – Lichee Flavour (5L Mix)","sku":"FROYOG-LICHEE-5L","price":350.0,"sale_price":null},{"name":"Frozen Yogurt Powder – Peach Flavour (5L Mix)","sku":"FROYOG-PEACH-5L","price":350.0,"sale_price":null},{"name":"Frozen Yogurt Powder – Strawberry Flavour (5L Mix)","sku":"FROYOG-STRAW-5L","price":350.0,"sale_price":null},{"name":"Frozen Yogurt Powder – English Toffee Flavour (5L Mix)","sku":"FROYOG-TOFFEE-5L","price":350.0,"sale_price":null},{"name":"Diatomaceous Earth - 10kg Food Grade","sku":"INPUT-DE-10KG","price":599.0,"sale_price":null},{"name":"Diatomaceous Earth - 1kg Food Grade","sku":"INPUT-DE-1KG","price":149.0,"sale_price":null},{"name":"Diatomaceous Earth - 25kg Food Grade","sku":"INPUT-DE-25KG","price":1199.0,"sale_price":null},{"name":"Coconut Water Kefir Kit","sku":"KIT-COCO-WK","price":350.0,"sale_price":null},{"name":"Milk Kefir Grains Starter Kit","sku":"KIT-MK-STARTER","price":300.0,"sale_price":null},{"name":"Water Kefir Grains Starter Kit","sku":"KIT-WK-STARTER","price":300.0,"sale_price":null},{"name":"Dragon Fruit Association Membership (12 Months)","sku":"MEM-DFA-12M","price":25000.0,"sale_price":null},{"name":"Dragon Fruit Association Membership (1 Month)","sku":"MEM-DFA-1M","price":3000.0,"sale_price":null},{"name":"Dragon Fruit Association Membership (3 Months)","sku":"MEM-DFA-3M","price":6000.0,"sale_price":null},{"name":"Dragon Fruit Association Membership (6 Months)","sku":"MEM-DFA-6M","price":12000.0,"sale_price":null},{"name":"Soya Beans - 10kg","sku":"SEED-SOYA-10KG","price":359.0,"sale_price":null},{"name":"Soya Beans - 25kg","sku":"SEED-SOYA-25KG","price":799.0,"sale_price":null},{"name":"Soya Beans - 5kg","sku":"SEED-SOYA-5KG","price":160.0,"sale_price":null},{"name":"Wheatgrass Seeds - 10kg","sku":"SEED-WG-10KG","price":320.0,"sale_price":null},{"name":"Wheatgrass Seeds - 25kg","sku":"SEED-WG-25KG","price":1199.0,"sale_price":null},{"name":"Wheatgrass Seeds - 5kg","sku":"SEED-WG-5KG","price":160.0,"sale_price":null},{"name":"1 Hectare Dragon Fruit Business Plan","sku":"SERV-BP-1HA","price":1500.0,"sale_price":null},{"name":"2 Hectare Dragon Fruit Business Plan","sku":"SERV-BP-2HA","price":1500.0,"sale_price":null},{"name":"3 Hectare Dragon Fruit Business Plan","sku":"SERV-BP-3HA","price":1500.0,"sale_price":null},{"name":"5 Hectare Dragon Fruit Business Plan","sku":"SERV-BP-5HA","price":1500.0,"sale_price":null},{"name":"Complete Dragon Fruit Business Plan Combo","sku":"SERV-BP-COMBO","price":1500.0,"sale_price":null},{"name":"One-on-One Consultation","sku":"SERV-CONSULT-1ON1","price":250.0,"sale_price":null},{"name":"Premium Genetics Consultation","sku":"SERV-CONSULT-GENETICS","price":850.0,"sale_price":null},{"name":"Farm Setup Consulting Package","sku":"SERV-CONSULT-SETUP","price":1850.0,"sale_price":null},{"name":"Video Consultation","sku":"SERV-CONSULT-VIDEO","price":250.0,"sale_price":null},{"name":"Farm Visit & Consultation Package","sku":"SERV-CONSULT-VISIT","price":850.0,"sale_price":null},{"name":"Agricultural Funding Manual & Contact Directory","sku":"SERV-FUND-MANUAL","price":250.0,"sale_price":null},{"name":"Cutting Rooting Service P.P","sku":"SERV-ROOTING-PP","price":30.0,"sale_price":null},{"name":"BioSoil EM1 - 1L","sku":"SOIL-BIOSOIL-1L","price":279.0,"sale_price":null},{"name":"BioSoil EM1 - 5L","sku":"SOIL-BIOSOIL-5L","price":999.0,"sale_price":null},{"name":"BioPond EM1 - 1L","sku":"SOIL-EM1POND-1L","price":299.0,"sale_price":null},{"name":"BioPond EM1 - 20L","sku":"SOIL-EM1POND-20L","price":3499.0,"sale_price":null},{"name":"BioPond EM1 - 5L","sku":"SOIL-EM1POND-5L","price":1099.0,"sale_price":null},{"name":"EM1 Soil Treatment - 1L","sku":"SOIL-EM1TRT-1L","price":249.0,"sale_price":null},{"name":"EM1 Soil Treatment - 20L","sku":"SOIL-EM1TRT-20L","price":2999.0,"sale_price":null},{"name":"EM1 Soil Treatment - 5L","sku":"SOIL-EM1TRT-5L","price":899.0,"sale_price":null}]
+[
+  {
+    "name": "Widget A",
+    "sku": "001",
+    "price": 10.0,
+    "sale_price": null
+  },
+  {
+    "name": "Cheesecloth - 100% Cotton",
+    "sku": "ACC-CHEESECLOTH",
+    "price": 69.0,
+    "sale_price": null
+  },
+  {
+    "name": "Nut Milk Bag - Organic Cotton",
+    "sku": "ACC-NUTBAG-COTTON",
+    "price": 89.0,
+    "sale_price": null
+  },
+  {
+    "name": "Fine Mesh Strainer Set",
+    "sku": "ACC-STRAINER-SET",
+    "price": 129.0,
+    "sale_price": null
+  },
+  {
+    "name": "Natural Brown Sugar - 10kg",
+    "sku": "BULK-SUGAR-10KG",
+    "price": 349.0,
+    "sale_price": null
+  },
+  {
+    "name": "Natural Brown Sugar - 25kg",
+    "sku": "BULK-SUGAR-25KG",
+    "price": 749.0,
+    "sale_price": null
+  },
+  {
+    "name": "Natural Brown Sugar - 2kg",
+    "sku": "BULK-SUGAR-2KG",
+    "price": 89.0,
+    "sale_price": null
+  },
+  {
+    "name": "Natural Brown Sugar - 50kg",
+    "sku": "BULK-SUGAR-50KG",
+    "price": 1349.0,
+    "sale_price": null
+  },
+  {
+    "name": "Complete Fermentation Starter Kit",
+    "sku": "BUNDLE-FERMENT",
+    "price": 899.0,
+    "sale_price": null
+  },
+  {
+    "name": "Kefir Starter Bundle",
+    "sku": "BUNDLE-KEFIR",
+    "price": 449.0,
+    "sale_price": null
+  },
+  {
+    "name": "Fresh Wheatgrass Tray",
+    "sku": "CROP-WG-TRAY",
+    "price": 80.0,
+    "sale_price": null
+  },
+  {
+    "name": "Apple Cider Vinegar Mother",
+    "sku": "CULT-ACV",
+    "price": 200.0,
+    "sale_price": null
+  },
+  {
+    "name": "Raw Apple Cider Vinegar Mother \u2013 10 Live Cultures Combo (Dairy-Free Starter Kit)",
+    "sku": "CULT-ACV-10COMBO",
+    "price": 1400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Buttermilk Culture",
+    "sku": "CULT-BUTTERMILK",
+    "price": 149.0,
+    "sale_price": null
+  },
+  {
+    "name": "Chlorella Vulgaris Live Culture 10 Litres",
+    "sku": "CULT-CHL-10L",
+    "price": 6499.0,
+    "sale_price": null
+  },
+  {
+    "name": "Chlorella Vulgaris Live Culture 1 Litre",
+    "sku": "CULT-CHL-1L",
+    "price": 849.0,
+    "sale_price": null
+  },
+  {
+    "name": "Chlorella Vulgaris Live Culture 20 Litres",
+    "sku": "CULT-CHL-20L",
+    "price": 12499.0,
+    "sale_price": null
+  },
+  {
+    "name": "Chlorella Vulgaris Live Culture 250ml",
+    "sku": "CULT-CHL-250ML",
+    "price": 249.0,
+    "sale_price": null
+  },
+  {
+    "name": "Chlorella Vulgaris Live Culture 500ml",
+    "sku": "CULT-CHL-500ML",
+    "price": 449.0,
+    "sale_price": null
+  },
+  {
+    "name": "Chlorella Vulgaris Live Culture 50 Litres",
+    "sku": "CULT-CHL-50L",
+    "price": 29999.0,
+    "sale_price": null
+  },
+  {
+    "name": "Chlorella Vulgaris Live Culture 5 Litres",
+    "sku": "CULT-CHL-5L",
+    "price": 3499.0,
+    "sale_price": null
+  },
+  {
+    "name": "Coconut Milk Kefir Starter",
+    "sku": "CULT-COCO-MK",
+    "price": 350.0,
+    "sale_price": null
+  },
+  {
+    "name": "Genuine Live Ginger Beer Plant (GBP)",
+    "sku": "CULT-GBP",
+    "price": 200.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ginger Bug Starter Culture",
+    "sku": "CULT-GINGERBUG",
+    "price": 200.0,
+    "sale_price": null
+  },
+  {
+    "name": "Black Tea Kombucha SCOBY",
+    "sku": "CULT-KOMB-BLACK",
+    "price": 200.0,
+    "sale_price": null
+  },
+  {
+    "name": "Coffee Kombucha SCOBY",
+    "sku": "CULT-KOMB-COFFEE",
+    "price": 250.0,
+    "sale_price": null
+  },
+  {
+    "name": "Green Tea Kombucha SCOBY",
+    "sku": "CULT-KOMB-GREEN",
+    "price": 250.0,
+    "sale_price": null
+  },
+  {
+    "name": "Rooibos Kombucha SCOBY",
+    "sku": "CULT-KOMB-ROOIBOS",
+    "price": 250.0,
+    "sale_price": null
+  },
+  {
+    "name": "Lacto Fermentation Starter",
+    "sku": "CULT-LACTO",
+    "price": 149.0,
+    "sale_price": null
+  },
+  {
+    "name": "Milk Kefir Grains (Live Culture)",
+    "sku": "CULT-MK",
+    "price": 200.0,
+    "sale_price": null
+  },
+  {
+    "name": "Natto Starter Culture",
+    "sku": "CULT-NATTO",
+    "price": 219.0,
+    "sale_price": null
+  },
+  {
+    "name": "Red Wine Vinegar Mother",
+    "sku": "CULT-RWV",
+    "price": 200.0,
+    "sale_price": null
+  },
+  {
+    "name": "Rye Sourdough Starter",
+    "sku": "CULT-SD-RYE",
+    "price": 200.0,
+    "sale_price": null
+  },
+  {
+    "name": "White Bread Sourdough Starter",
+    "sku": "CULT-SD-WHITE",
+    "price": 200.0,
+    "sale_price": null
+  },
+  {
+    "name": "Wholegrain Sourdough Starter",
+    "sku": "CULT-SD-WHOLE",
+    "price": 200.0,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Culture 10 Litres",
+    "sku": "CULT-SPI-10L",
+    "price": 6499.0,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Culture 1 Litre",
+    "sku": "CULT-SPI-1L",
+    "price": 849.0,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Culture 20 Litres",
+    "sku": "CULT-SPI-20L",
+    "price": 12499.0,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Culture 250ml",
+    "sku": "CULT-SPI-250ML",
+    "price": 249.0,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Culture 500ml",
+    "sku": "CULT-SPI-500ML",
+    "price": 449.0,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Culture 50 Litres",
+    "sku": "CULT-SPI-50L",
+    "price": 29999.0,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Culture 5 Litres",
+    "sku": "CULT-SPI-5L",
+    "price": 3499.0,
+    "sale_price": null
+  },
+  {
+    "name": "Tempeh Starter Culture",
+    "sku": "CULT-TEMPEH",
+    "price": 199.0,
+    "sale_price": null
+  },
+  {
+    "name": "Water Kefir Grains (Live Culture \u2013 Dairy-Free)",
+    "sku": "CULT-WK",
+    "price": 200.0,
+    "sale_price": null
+  },
+  {
+    "name": "Water Kefir Grains Bulk Pack (10 Live Cultures \u2013 Dairy-Free)",
+    "sku": "CULT-WK-BULK10",
+    "price": 1400.0,
+    "sale_price": null
+  },
+  {
+    "name": "White Wine Vinegar Mother",
+    "sku": "CULT-WWV",
+    "price": 200.0,
+    "sale_price": null
+  },
+  {
+    "name": "Bulgarian Yogurt Culture",
+    "sku": "CULT-YOG-BULG",
+    "price": 179.0,
+    "sale_price": null
+  },
+  {
+    "name": "Greek Yogurt Culture",
+    "sku": "CULT-YOG-GREEK",
+    "price": 179.0,
+    "sale_price": null
+  },
+  {
+    "name": "Black Dragon Dark Flesh Cutting",
+    "sku": "CUT-BLACK-DARK",
+    "price": 1799.97,
+    "sale_price": null
+  },
+  {
+    "name": "Black Dragon Fruit Cutting",
+    "sku": "CUT-BLACKDRAGON",
+    "price": 500.0,
+    "sale_price": null
+  },
+  {
+    "name": "Lemon Lime Variegated Dragon Fruit (Unrooted)",
+    "sku": "CUT-LEMONLIME-VAR",
+    "price": 1000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Purple Haze Cutting",
+    "sku": "CUT-PURPLEHAZE",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Red Dragon Fruit Cuttings (4 Pack)",
+    "sku": "CUT-RUBY-4PK",
+    "price": 350.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Red Purple Flesh Cutting",
+    "sku": "CUT-RUBY-PURPLE",
+    "price": 350.0,
+    "sale_price": null
+  },
+  {
+    "name": "Worth Variegated Dragon Fruit (Unrooted)",
+    "sku": "CUT-WORTH-VAR",
+    "price": 1000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Yellow Amarillo Dragon Fruit Cutting",
+    "sku": "CUT-YELLOWAMARILLO",
+    "price": 450.0,
+    "sale_price": null
+  },
+  {
+    "name": "Mixed Dragon Fruit Plants Combo (5 Premium Varieties)",
+    "sku": "DF-COMBO-5",
+    "price": 1000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Purple Haze - 150 Plant Tray",
+    "sku": "DF-PH-150",
+    "price": 15000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Purple Haze - 600 Plant Tray",
+    "sku": "DF-PH-600",
+    "price": 32000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Black Dragon Fruit Africana Hybrid",
+    "sku": "DF-RARE-BLACKAF",
+    "price": 4500.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 1,000 Plant Tray",
+    "sku": "DF-RUBY-1000",
+    "price": 28000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 150 Plant Tray (Retail Pack)",
+    "sku": "DF-RUBY-150",
+    "price": 5700.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 600 Plant Tray",
+    "sku": "DF-RUBY-600",
+    "price": 18000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Dragon Fruit - 1,000 Plant Tray",
+    "sku": "DF-SWC-1000",
+    "price": 28000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Dragon Fruit - 600 Plant Tray",
+    "sku": "DF-SWC-600",
+    "price": 18000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Alice Sweet",
+    "sku": "DF-VAR-ALICESWEET",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "American Beauty",
+    "sku": "DF-VAR-AMBEAUTY",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Amazon Yellow",
+    "sku": "DF-VAR-AMZYELLOW",
+    "price": 3000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Armando",
+    "sku": "DF-VAR-ARMANDO",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Asunta 1",
+    "sku": "DF-VAR-ASUNTA1",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Asunta 2",
+    "sku": "DF-VAR-ASUNTA2",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Asunta 3",
+    "sku": "DF-VAR-ASUNTA3",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Asunta 5",
+    "sku": "DF-VAR-ASUNTA5",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ax",
+    "sku": "DF-VAR-AX",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Arizona Purple",
+    "sku": "DF-VAR-AZPURPLE",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Baby Cerrado",
+    "sku": "DF-VAR-BABYCERRADO",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Bahamut",
+    "sku": "DF-VAR-BAHAMUT",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Black Dragon",
+    "sku": "DF-VAR-BLACKDRAGON",
+    "price": 850.0,
+    "sale_price": null
+  },
+  {
+    "name": "Bloody Mary",
+    "sku": "DF-VAR-BLOODYMARY",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Boreal Red",
+    "sku": "DF-VAR-BOREALRED",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Bruni",
+    "sku": "DF-VAR-BRUNI",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Bundy Red Hybrid",
+    "sku": "DF-VAR-BUNDYRED",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Chameleon",
+    "sku": "DF-VAR-CHAMELEON",
+    "price": 600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Red Green Chimera",
+    "sku": "DF-VAR-CHIMERA",
+    "price": 1000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Colombian Yellow",
+    "sku": "DF-VAR-COLYELLOW",
+    "price": 600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Condor",
+    "sku": "DF-VAR-CONDOR",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Connie Mayer",
+    "sku": "DF-VAR-CONNIEMAYER",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Cosmic Charlie",
+    "sku": "DF-VAR-COSMIC",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Dark Star",
+    "sku": "DF-VAR-DARKSTAR",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "David Bowie",
+    "sku": "DF-VAR-DAVIDBOWIE",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Delight",
+    "sku": "DF-VAR-DELIGHT",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Desert King",
+    "sku": "DF-VAR-DESERTKING",
+    "price": 600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Desert Princess",
+    "sku": "DF-VAR-DESERTPRIN",
+    "price": 600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ecuador Palora",
+    "sku": "DF-VAR-ECU PALORA",
+    "price": 800.0,
+    "sale_price": null
+  },
+  {
+    "name": "Edgars Baby",
+    "sku": "DF-VAR-EDGARSBABY",
+    "price": 600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Godzilla",
+    "sku": "DF-VAR-GODZILLA",
+    "price": 2800.0,
+    "sale_price": null
+  },
+  {
+    "name": "Golden Variegated",
+    "sku": "DF-VAR-GOLDENVAR",
+    "price": 3000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Halleys Comet",
+    "sku": "DF-VAR-HALLEYSCOMET",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Harpua",
+    "sku": "DF-VAR-HARPUA",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Hawaiian Red",
+    "sku": "DF-VAR-HAWAIIANRED",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Hells Boy",
+    "sku": "DF-VAR-HELLSBOY",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Houghton",
+    "sku": "DF-VAR-HOUGHTON",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "King Kong",
+    "sku": "DF-VAR-KINGKONG",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Lake Atitlan",
+    "sku": "DF-VAR-LAKEATITLAN",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "La Verne Red",
+    "sku": "DF-VAR-LAVERNERED",
+    "price": 1000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Lime Variegated",
+    "sku": "DF-VAR-LIMEVAR",
+    "price": 1500.0,
+    "sale_price": null
+  },
+  {
+    "name": "Lisa",
+    "sku": "DF-VAR-LISA",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "M1",
+    "sku": "DF-VAR-M1",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Makisupa",
+    "sku": "DF-VAR-MAKISUPA",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Maria Rosa",
+    "sku": "DF-VAR-MARIAROSA",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ocamponis",
+    "sku": "DF-VAR-OCAMPONIS",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Orejona",
+    "sku": "DF-VAR-OREJONA",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Paul Thompson",
+    "sku": "DF-VAR-PAULTHOMPSON",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Peruvian Yellow",
+    "sku": "DF-VAR-PERYELLOW",
+    "price": 800.0,
+    "sale_price": null
+  },
+  {
+    "name": "Physical Graffiti",
+    "sku": "DF-VAR-PHYSGRAFFITI",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Pure Gold",
+    "sku": "DF-VAR-PUREGOLD",
+    "price": 2000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Purple Haze",
+    "sku": "DF-VAR-PURPLEHAZE",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Purple Megalanthus",
+    "sku": "DF-VAR-PURPLEMEG",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Rainbow",
+    "sku": "DF-VAR-RAINBOW",
+    "price": 600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Red Crystal",
+    "sku": "DF-VAR-REDCRYSTAL",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Red Jaina",
+    "sku": "DF-VAR-REDJAINA",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Rixford",
+    "sku": "DF-VAR-RIXFORD",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Red",
+    "sku": "DF-VAR-RUBYRED",
+    "price": 350.0,
+    "sale_price": null
+  },
+  {
+    "name": "Seoul Kitchen",
+    "sku": "DF-VAR-SEOULKITCHEN",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sin Espinas",
+    "sku": "DF-VAR-SINESPINAS",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "S. Setaceus",
+    "sku": "DF-VAR-SSETACEUS",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sugar Dragon S8",
+    "sku": "DF-VAR-SUGARDRAGONS8",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Super Shenro",
+    "sku": "DF-VAR-SUPERSHENRO",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Thick King",
+    "sku": "DF-VAR-THICKKING",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Townsend Pink",
+    "sku": "DF-VAR-TOWNSEND",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Tricia",
+    "sku": "DF-VAR-TRICIA",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Trish Red",
+    "sku": "DF-VAR-TRISHRED",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Valdivia Roja",
+    "sku": "DF-VAR-VALDIVIA",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Vietnam Green Skin Red Flesh",
+    "sku": "DF-VAR-VIETGREENRED",
+    "price": 600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Vietnamese Jaina",
+    "sku": "DF-VAR-VIETJAINA",
+    "price": 320.0,
+    "sale_price": null
+  },
+  {
+    "name": "Voodoo Child",
+    "sku": "DF-VAR-VOODOOCHILD",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "White Crystal",
+    "sku": "DF-VAR-WHITECRYSTAL",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "White King Hollywood",
+    "sku": "DF-VAR-WHITEKINGHW",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "White Sapphire",
+    "sku": "DF-VAR-WHITESAPH",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "White Supreme",
+    "sku": "DF-VAR-WHITESUP",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Yellow Amarillo",
+    "sku": "DF-VAR-YELLOWAMARILLO",
+    "price": 1000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Yellow Gold",
+    "sku": "DF-VAR-YELLOWGOLD",
+    "price": 3500.0,
+    "sale_price": null
+  },
+  {
+    "name": "Yellow Phalora",
+    "sku": "DF-VAR-YELPHALORA",
+    "price": 1000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Zamorano",
+    "sku": "DF-VAR-ZAMORANO",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Zorro",
+    "sku": "DF-VAR-ZORRO",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Zamorano - 1,000 Plant Tray",
+    "sku": "DF-ZAM-1000",
+    "price": 23000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Zamorano Dragon Fruit Plants - 150 Plant Commercial Plant Tray Pack",
+    "sku": "DF-ZAM-150",
+    "price": 15000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Zamorano Dragon Fruit Plants - 600 Golden (Israel) - 600 Plant Commercial Plant Tray Pack",
+    "sku": "DF-ZAM-600G",
+    "price": 18000.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-050-PLANTS-RUBY\u2122",
+    "sku": "FARM-050-RUBY",
+    "price": 2400.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-100-PLANTS-RUBY\u2122",
+    "sku": "FARM-100-RUBY",
+    "price": 4300.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-1000-PLANTS-RUBY\u2122",
+    "sku": "FARM-1000-RUBY",
+    "price": 26000.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-150-PLANTS-RUBY\u2122",
+    "sku": "FARM-150-RUBY",
+    "price": 6000.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-150-PLANTS-SWEET-WHITE-CRYSTAL\u2122",
+    "sku": "FARM-150-SWC",
+    "price": 8250.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-200-PLANTS-RUBY\u2122",
+    "sku": "FARM-200-RUBY",
+    "price": 7600.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-200-PLANTS-SWEET-WHITE-CRYSTAL\u2122",
+    "sku": "FARM-200-SWC",
+    "price": 10800.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-250-PLANTS-RUBY\u2122",
+    "sku": "FARM-250-RUBY",
+    "price": 9000.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-250-PLANTS-SWEET-WHITE-CRYSTAL\u2122",
+    "sku": "FARM-250-SWC",
+    "price": 13250.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-300-PLANTS-RUBY\u2122",
+    "sku": "FARM-300-RUBY",
+    "price": 10200.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-300-PLANTS-SWEET-WHITE-CRYSTAL\u2122",
+    "sku": "FARM-300-SWC",
+    "price": 15600.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-400-PLANTS-RUBY\u2122",
+    "sku": "FARM-400-RUBY",
+    "price": 13200.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-400-PLANTS-SWEET-WHITE-CRYSTAL\u2122",
+    "sku": "FARM-400-SWC",
+    "price": 20400.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-500-PLANTS-RUBY\u2122",
+    "sku": "FARM-500-RUBY",
+    "price": 16000.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-500-PLANTS-SWEET-WHITE-CRYSTAL\u2122",
+    "sku": "FARM-500-SWC",
+    "price": 25000.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-600-PLANTS-RUBY\u2122",
+    "sku": "FARM-600-RUBY",
+    "price": 18000.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-600-PLANTS-SWEET-WHITE-CRYSTAL\u2122",
+    "sku": "FARM-600-SWC",
+    "price": 29400.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-700-PLANTS-RUBY\u2122",
+    "sku": "FARM-700-RUBY",
+    "price": 20300.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-700-PLANTS-SWEET-WHITE-CRYSTAL\u2122",
+    "sku": "FARM-700-SWC",
+    "price": 33600.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-800-PLANTS-RUBY\u2122",
+    "sku": "FARM-800-RUBY",
+    "price": 22400.0,
+    "sale_price": null
+  },
+  {
+    "name": "FARM-900-PLANTS-RUBY\u2122",
+    "sku": "FARM-900-RUBY",
+    "price": 24300.0,
+    "sale_price": null
+  },
+  {
+    "name": "BioGreen A-Z Fertilizer - 1L",
+    "sku": "FERT-BIOGREEN-1L",
+    "price": 299.0,
+    "sale_price": null
+  },
+  {
+    "name": "BioGreen A-Z Fertilizer - 20L",
+    "sku": "FERT-BIOGREEN-20L",
+    "price": 3699.0,
+    "sale_price": null
+  },
+  {
+    "name": "BioGreen A-Z Fertilizer - 5L",
+    "sku": "FERT-BIOGREEN-5L",
+    "price": 1099.0,
+    "sale_price": null
+  },
+  {
+    "name": "Premium Chlorella Growth Fertilizer (1kg Powder)",
+    "sku": "FERT-CHL-1KG",
+    "price": 870.0,
+    "sale_price": 545.0
+  },
+  {
+    "name": "Premium Chlorella Growth Fertilizer (250ml Powder)",
+    "sku": "FERT-CHL-250ML",
+    "price": 250.0,
+    "sale_price": null
+  },
+  {
+    "name": "Premium Spirulina Growth Fertilizer (1kg Powder)",
+    "sku": "FERT-SPI-1KG",
+    "price": 870.0,
+    "sale_price": 545.0
+  },
+  {
+    "name": "Premium Spirulina Growth Fertilizer (250ml Powder)",
+    "sku": "FERT-SPI-250ML",
+    "price": 250.0,
+    "sale_price": null
+  },
+  {
+    "name": "Frozen Yogurt Powder \u2013 Summer Berries Flavour (5L Mix)",
+    "sku": "FROYOG-BERRIES-5L",
+    "price": 350.0,
+    "sale_price": null
+  },
+  {
+    "name": "Frozen Yogurt Powder \u2013 Black Currant Flavour (5L Mix)",
+    "sku": "FROYOG-BLACKCUR-5L",
+    "price": 350.0,
+    "sale_price": null
+  },
+  {
+    "name": "Frozen Yogurt Powder \u2013 Fruit of the Forest (5L Mix)",
+    "sku": "FROYOG-FOF-5L",
+    "price": 350.0,
+    "sale_price": null
+  },
+  {
+    "name": "Frozen Yogurt Powder \u2013 Lichee Flavour (5L Mix)",
+    "sku": "FROYOG-LICHEE-5L",
+    "price": 350.0,
+    "sale_price": null
+  },
+  {
+    "name": "Frozen Yogurt Powder \u2013 Peach Flavour (5L Mix)",
+    "sku": "FROYOG-PEACH-5L",
+    "price": 350.0,
+    "sale_price": null
+  },
+  {
+    "name": "Frozen Yogurt Powder \u2013 Strawberry Flavour (5L Mix)",
+    "sku": "FROYOG-STRAW-5L",
+    "price": 350.0,
+    "sale_price": null
+  },
+  {
+    "name": "Frozen Yogurt Powder \u2013 English Toffee Flavour (5L Mix)",
+    "sku": "FROYOG-TOFFEE-5L",
+    "price": 350.0,
+    "sale_price": null
+  },
+  {
+    "name": "Diatomaceous Earth - 10kg Food Grade",
+    "sku": "INPUT-DE-10KG",
+    "price": 599.0,
+    "sale_price": null
+  },
+  {
+    "name": "Diatomaceous Earth - 1kg Food Grade",
+    "sku": "INPUT-DE-1KG",
+    "price": 149.0,
+    "sale_price": null
+  },
+  {
+    "name": "Diatomaceous Earth - 25kg Food Grade",
+    "sku": "INPUT-DE-25KG",
+    "price": 1199.0,
+    "sale_price": null
+  },
+  {
+    "name": "Coconut Water Kefir Kit",
+    "sku": "KIT-COCO-WK",
+    "price": 350.0,
+    "sale_price": null
+  },
+  {
+    "name": "Milk Kefir Grains Starter Kit",
+    "sku": "KIT-MK-STARTER",
+    "price": 300.0,
+    "sale_price": null
+  },
+  {
+    "name": "Water Kefir Grains Starter Kit",
+    "sku": "KIT-WK-STARTER",
+    "price": 300.0,
+    "sale_price": null
+  },
+  {
+    "name": "Dragon Fruit Association Membership (12 Months)",
+    "sku": "MEM-DFA-12M",
+    "price": 25000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Dragon Fruit Association Membership (1 Month)",
+    "sku": "MEM-DFA-1M",
+    "price": 3000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Dragon Fruit Association Membership (3 Months)",
+    "sku": "MEM-DFA-3M",
+    "price": 6000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Dragon Fruit Association Membership (6 Months)",
+    "sku": "MEM-DFA-6M",
+    "price": 12000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Soya Beans - 10kg",
+    "sku": "SEED-SOYA-10KG",
+    "price": 359.0,
+    "sale_price": null
+  },
+  {
+    "name": "Soya Beans - 25kg",
+    "sku": "SEED-SOYA-25KG",
+    "price": 799.0,
+    "sale_price": null
+  },
+  {
+    "name": "Soya Beans - 5kg",
+    "sku": "SEED-SOYA-5KG",
+    "price": 160.0,
+    "sale_price": null
+  },
+  {
+    "name": "Wheatgrass Seeds - 10kg",
+    "sku": "SEED-WG-10KG",
+    "price": 320.0,
+    "sale_price": null
+  },
+  {
+    "name": "Wheatgrass Seeds - 25kg",
+    "sku": "SEED-WG-25KG",
+    "price": 1199.0,
+    "sale_price": null
+  },
+  {
+    "name": "Wheatgrass Seeds - 5kg",
+    "sku": "SEED-WG-5KG",
+    "price": 160.0,
+    "sale_price": null
+  },
+  {
+    "name": "1 Hectare Dragon Fruit Business Plan",
+    "sku": "SERV-BP-1HA",
+    "price": 1500.0,
+    "sale_price": null
+  },
+  {
+    "name": "2 Hectare Dragon Fruit Business Plan",
+    "sku": "SERV-BP-2HA",
+    "price": 1500.0,
+    "sale_price": null
+  },
+  {
+    "name": "3 Hectare Dragon Fruit Business Plan",
+    "sku": "SERV-BP-3HA",
+    "price": 1500.0,
+    "sale_price": null
+  },
+  {
+    "name": "5 Hectare Dragon Fruit Business Plan",
+    "sku": "SERV-BP-5HA",
+    "price": 1500.0,
+    "sale_price": null
+  },
+  {
+    "name": "Complete Dragon Fruit Business Plan Combo",
+    "sku": "SERV-BP-COMBO",
+    "price": 1500.0,
+    "sale_price": null
+  },
+  {
+    "name": "One-on-One Consultation",
+    "sku": "SERV-CONSULT-1ON1",
+    "price": 250.0,
+    "sale_price": null
+  },
+  {
+    "name": "Premium Genetics Consultation",
+    "sku": "SERV-CONSULT-GENETICS",
+    "price": 850.0,
+    "sale_price": null
+  },
+  {
+    "name": "Farm Setup Consulting Package",
+    "sku": "SERV-CONSULT-SETUP",
+    "price": 1850.0,
+    "sale_price": null
+  },
+  {
+    "name": "Video Consultation",
+    "sku": "SERV-CONSULT-VIDEO",
+    "price": 250.0,
+    "sale_price": null
+  },
+  {
+    "name": "Farm Visit & Consultation Package",
+    "sku": "SERV-CONSULT-VISIT",
+    "price": 850.0,
+    "sale_price": null
+  },
+  {
+    "name": "Agricultural Funding Manual & Contact Directory",
+    "sku": "SERV-FUND-MANUAL",
+    "price": 250.0,
+    "sale_price": null
+  },
+  {
+    "name": "Cutting Rooting Service P.P",
+    "sku": "SERV-ROOTING-PP",
+    "price": 30.0,
+    "sale_price": null
+  },
+  {
+    "name": "BioSoil EM1 - 1L",
+    "sku": "SOIL-BIOSOIL-1L",
+    "price": 279.0,
+    "sale_price": null
+  },
+  {
+    "name": "BioSoil EM1 - 5L",
+    "sku": "SOIL-BIOSOIL-5L",
+    "price": 999.0,
+    "sale_price": null
+  },
+  {
+    "name": "BioPond EM1 - 1L",
+    "sku": "SOIL-EM1POND-1L",
+    "price": 299.0,
+    "sale_price": null
+  },
+  {
+    "name": "BioPond EM1 - 20L",
+    "sku": "SOIL-EM1POND-20L",
+    "price": 3499.0,
+    "sale_price": null
+  },
+  {
+    "name": "BioPond EM1 - 5L",
+    "sku": "SOIL-EM1POND-5L",
+    "price": 1099.0,
+    "sale_price": null
+  },
+  {
+    "name": "EM1 Soil Treatment - 1L",
+    "sku": "SOIL-EM1TRT-1L",
+    "price": 249.0,
+    "sale_price": null
+  },
+  {
+    "name": "EM1 Soil Treatment - 20L",
+    "sku": "SOIL-EM1TRT-20L",
+    "price": 2999.0,
+    "sale_price": null
+  },
+  {
+    "name": "EM1 Soil Treatment - 5L",
+    "sku": "SOIL-EM1TRT-5L",
+    "price": 899.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 2,000+ Volume Tier (per 1,000 units)",
+    "sku": "DF-RUBY-BULK2K",
+    "price": 26000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 900 Plant Tray",
+    "sku": "DF-RUBY-900",
+    "price": 24300.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 800 Plant Tray",
+    "sku": "DF-RUBY-800",
+    "price": 22400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 700 Plant Tray",
+    "sku": "DF-RUBY-700",
+    "price": 20300.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 500 Plant Tray",
+    "sku": "DF-RUBY-500",
+    "price": 16000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 400 Plant Tray",
+    "sku": "DF-RUBY-400",
+    "price": 13200.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 300 Plant Tray",
+    "sku": "DF-RUBY-300",
+    "price": 10200.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 250 Plant Tray",
+    "sku": "DF-RUBY-250",
+    "price": 9000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 200 Plant Tray",
+    "sku": "DF-RUBY-200",
+    "price": 7600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 150 Plant Tray",
+    "sku": "DF-RUBY-150STD",
+    "price": 6000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 100 Plant Tray",
+    "sku": "DF-RUBY-100",
+    "price": 4300.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 50 Plant Tray",
+    "sku": "DF-RUBY-50",
+    "price": 2400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 150 Plant Tray (Retail Pack)",
+    "sku": "DF-RUBY-RETAIL150",
+    "price": 5700.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 1,000 Plant Tray",
+    "sku": "DF-SWDC-1000",
+    "price": 45000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 900 Plant Tray",
+    "sku": "DF-SWDC-900",
+    "price": 41400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 800 Plant Tray",
+    "sku": "DF-SWDC-800",
+    "price": 37600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 700 Plant Tray",
+    "sku": "DF-SWDC-700",
+    "price": 33600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 600 Plant Tray",
+    "sku": "DF-SWDC-600",
+    "price": 29400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 500 Plant Tray",
+    "sku": "DF-SWDC-500",
+    "price": 25000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 400 Plant Tray",
+    "sku": "DF-SWDC-400",
+    "price": 20400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 300 Plant Tray",
+    "sku": "DF-SWDC-300",
+    "price": 15600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 250 Plant Tray",
+    "sku": "DF-SWDC-250",
+    "price": 13250.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 200 Plant Tray",
+    "sku": "DF-SWDC-200",
+    "price": 10800.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 150 Plant Tray",
+    "sku": "DF-SWDC-150",
+    "price": 8250.0,
+    "sale_price": null
+  },
+  {
+    "name": "Black Dragon Fruit Africana Hybrid - 1,000 Plant Tray",
+    "sku": "DF-BDAF-1000",
+    "price": 78000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Black Dragon Fruit Africana Hybrid - 600 Plant Tray",
+    "sku": "DF-BDAF-600",
+    "price": 48000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Golden Israel - 600 Plant Tray",
+    "sku": "DF-GI-600",
+    "price": 45000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Yellow Phalora",
+    "sku": "DF-VAR-YELLOWPHALORA",
+    "price": 1000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Peruvian Yellow",
+    "sku": "DF-VAR-PERUYELLOW",
+    "price": 800.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ecuador Palora",
+    "sku": "DF-VAR-ECUADORPALORA",
+    "price": 800.0,
+    "sale_price": null
+  },
+  {
+    "name": "La Verne Red",
+    "sku": "DF-VAR-LAVERNE",
+    "price": 1000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Desert Princess",
+    "sku": "DF-VAR-DESERTPRINCESS",
+    "price": 600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Vietnam Green Skin Red Flesh",
+    "sku": "DF-VAR-VIETGREEN",
+    "price": 600.0,
+    "sale_price": null
+  },
+  {
+    "name": "American Beauty",
+    "sku": "DF-VAR-AMERICANBEAUTY",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Arizona Purple",
+    "sku": "DF-VAR-ARIZONAPURPLE",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Bundy Red Hybrid",
+    "sku": "DF-VAR-BUNDYREDHYBRID",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Cosmic Charlie",
+    "sku": "DF-VAR-COSMICCHARLIE",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Physical Graffiti",
+    "sku": "DF-VAR-PHYSICALGRAFFITI",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Purple Megalanthus",
+    "sku": "DF-VAR-PURPLEMEGALANTHUS",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Townsend Pink",
+    "sku": "DF-VAR-TOWNSENDPINK",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Valdivia Roja",
+    "sku": "DF-VAR-VALDIVIAROJA",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "White King Hollywood",
+    "sku": "DF-VAR-WHITEKINGHOLLYWOOD",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "White Sapphire",
+    "sku": "DF-VAR-WHITESAPPHIRE",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "White Supreme",
+    "sku": "DF-VAR-WHITESUPREME",
+    "price": 400.0,
+    "sale_price": null
+  }
+]
