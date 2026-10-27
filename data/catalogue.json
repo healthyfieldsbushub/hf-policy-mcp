@@ -1314,18 +1314,6 @@
     "sale_price": null
   },
   {
-    "name": "Chlorella Vulgaris Live Mother Culture - 100L",
-    "sku": "CHL-100L",
-    "price": 54999,
-    "sale_price": null
-  },
-  {
-    "name": "Spirulina Platensis Live Mother Culture - 100L",
-    "sku": "SPI-100L",
-    "price": 54999,
-    "sale_price": null
-  },
-  {
     "name": "Ruby Dragon Fruit Plants - 2,000+ Volume Tier (per 1,000 units)",
     "sku": "DF-RUBY-BULK2K",
     "price": 26000.0,
@@ -1623,6 +1611,18 @@
     "name": "Chlorella Vulgaris Live Mother Culture - 100L (Institutional 35% Payable)",
     "sku": "CULT-CHL-100L-INST",
     "price": 19249.65,
+    "sale_price": null
+  },
+  {
+    "name": "Spirulina Platensis Live Mother Culture - 100L",
+    "sku": "CULT-SPI-100L",
+    "price": 54999,
+    "sale_price": null
+  },
+  {
+    "name": "Chlorella Vulgaris Live Mother Culture - 100L",
+    "sku": "CULT-CHL-100L",
+    "price": 54999,
     "sale_price": null
   }
 ]
