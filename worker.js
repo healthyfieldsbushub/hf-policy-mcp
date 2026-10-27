@@ -1,3 +1,6 @@
+--86040ab26193a113d6dec4ea642e6b2f2f234ddcfa018d947a2d188a4074
+Content-Disposition: form-data; name="worker.js"
+
 /**
  * Healthy Fields SA — Customer Service Policy MCP Server (Cloudflare Worker)
  * ==========================================================================
@@ -32,7 +35,7 @@ const BUSINESS = {
   display_name: "Healthy Fields SA",
   tagline:
     "Dragon Fruit Farming \u2022 Agricultural Youth Development \u2022 Gut Health & Biological Solutions",
-  address: "22 Wren Street, Rant and Dal, Chancliff, Krugersdorp",
+  address: "Franschhoek Estate, 22 Wren St, Rant en Dal, Krugersdorp, 1739, South Africa",
   email: ["admin@proagrisa.co.za", "orders@proagrisa.co.za"],
   phone: ["+27 83 447 4639", "+1 351 777 2848"],
   whatsapp: ["+1 555-913-5536", "+27 84 715 8514"],
@@ -164,6 +167,16 @@ const TOOLS = [
             "Answering hours are South African time (SAST), 07:00-17:00.",
             "Never give banking details other than the approved ones below, and never confirm a " +
               "payment as received \u2014 that is verified by a human.",
+            "ALL visits, consultations and collections MUST be booked in advance through the " +
+              "website with a date selection. NO site visits, NO drop-ins and NO stop-buys are " +
+              "allowed on the estate \u2014 we are often on the farm or on the road. This rule has " +
+              "stood for 14 years and still applies.",
+            "Fees: R80 collection fee is payable when booking online; R250 consultation fee is " +
+              "payable when booking. These two are normally different customers \u2014 a " +
+              "consultation is R250 without the R80 collection fee.",
+            "Orders must be PAID IN FULL before collection. Plant material is shipped from the " +
+              "farm to the office to be packed for the customer.",
+            "Local shipping inside South Africa via The Courier Guy: 1 to 25 plants = R99.",
           ],
           answering_hours: {
             timezone: "Africa/Johannesburg (SAST, UTC+2)",
@@ -183,6 +196,24 @@ const TOOLS = [
               "The business does not accept responsibility for mistakes made by the customer or " +
               "by third parties.",
             suggested_wording: DRAFTS.refund,
+          },
+          visits_and_fees: {
+            address: "Franschhoek Estate, 22 Wren St, Rant en Dal, Krugersdorp, 1739, South Africa",
+            booking_required: true,
+            booking_channel: "Website, with date selection",
+            no_drop_ins: "NO site visits, NO drop-ins, NO stop-buys. Arrange beforehand.",
+            collection_fee_zar: 80,
+            collection_fee_note: "Payable when booking online. Charged so a booked appointment is not wasted.",
+            consultation_fee_zar: 250,
+            consultation_note: "Payable when booking. Separate from the R80 collection fee.",
+            payment_before_collection: true,
+            payment_note: "Orders must be paid in full before collection; plant material is shipped from the farm to the office to be packed.",
+            shipping: {
+              local_courier: "The Courier Guy",
+              local_1_to_25_plants_zar: 99,
+              note: "Local South African shipping only. Quoted ex-nursery, excluding delivery and transit insurance.",
+            },
+            rule_age: "This booking rule has applied for 14 years and still stands.",
           },
           escalate_when: [
             "refund or compensation requested",
@@ -727,3 +758,5 @@ export default {
     return json(res);
   },
 };
+
+--86040ab26193a113d6dec4ea642e6b2f2f234ddcfa018d947a2d188a4074--
