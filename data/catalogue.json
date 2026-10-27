@@ -300,7 +300,7 @@
     "sale_price": null
   },
   {
-    "name": "Lemon Lime Variegated Dragon Fruit \u2013 Unrooted Cutting",
+    "name": "Lemon Lime Variegated Dragon Fruit (Unrooted)",
     "sku": "CUT-LEMONLIME-VAR",
     "price": 1000.0,
     "sale_price": null
@@ -324,7 +324,7 @@
     "sale_price": null
   },
   {
-    "name": "Worth Variegated Dragon Fruit \u2013 Unrooted Cutting",
+    "name": "Worth Variegated Dragon Fruit (Unrooted)",
     "sku": "CUT-WORTH-VAR",
     "price": 1000.0,
     "sale_price": null
@@ -342,49 +342,49 @@
     "sale_price": null
   },
   {
-    "name": "150 Purple Haze Dragon Fruit Plants",
+    "name": "Purple Haze - 150 Plant Tray",
     "sku": "DF-PH-150",
     "price": 15000.0,
     "sale_price": null
   },
   {
-    "name": "Purple Haze Dragon Fruit Plants - 600 Plant Commercial Plant Tray Pack",
+    "name": "Purple Haze - 600 Plant Tray",
     "sku": "DF-PH-600",
     "price": 32000.0,
     "sale_price": null
   },
   {
-    "name": "Black Dragon Fruit Africana Hybrid (Premium Rare Variety)",
+    "name": "Black Dragon Fruit Africana Hybrid",
     "sku": "DF-RARE-BLACKAF",
     "price": 4500.0,
     "sale_price": null
   },
   {
-    "name": "1000 Ruby Dragon Fruit Plants",
+    "name": "Ruby Dragon Fruit Plants - 1,000 Plant Tray",
     "sku": "DF-RUBY-1000",
     "price": 28000.0,
     "sale_price": null
   },
   {
-    "name": "Ruby Dragon Fruit Plants - 150 Plant Commercial Plant Tray Pack",
+    "name": "Ruby Dragon Fruit Plants - 150 Plant Tray (Retail Pack)",
     "sku": "DF-RUBY-150",
     "price": 5700.0,
     "sale_price": null
   },
   {
-    "name": "600 Ruby Dragon Fruit Plants",
+    "name": "Ruby Dragon Fruit Plants - 600 Plant Tray",
     "sku": "DF-RUBY-600",
     "price": 18000.0,
     "sale_price": null
   },
   {
-    "name": "Sweet White Dragon Fruit Plants \u2013 1000 Plant Commercial Plant Tray Pack",
+    "name": "Sweet White Dragon Fruit - 1,000 Plant Tray",
     "sku": "DF-SWC-1000",
     "price": 28000.0,
     "sale_price": null
   },
   {
-    "name": "Sweet White Dragon Fruit Plants \u2013 600 Plant Commercial Plant Tray Pack",
+    "name": "Sweet White Dragon Fruit - 600 Plant Tray",
     "sku": "DF-SWC-600",
     "price": 18000.0,
     "sale_price": null
@@ -870,7 +870,7 @@
     "sale_price": null
   },
   {
-    "name": "1000 Zamorano Dragon Fruit Plants",
+    "name": "Zamorano - 1,000 Plant Tray",
     "sku": "DF-ZAM-1000",
     "price": 23000.0,
     "sale_price": null
@@ -1443,6 +1443,312 @@
     "name": "Spirulina Platensis Live Culture - 20L (Institutional 35% Payable)",
     "sku": "SPI-20L-INST",
     "price": 4374.65,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 2,000+ Volume Tier (per 1,000 units)",
+    "sku": "DF-RUBY-BULK2K",
+    "price": 26000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 900 Plant Tray",
+    "sku": "DF-RUBY-900",
+    "price": 24300.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 800 Plant Tray",
+    "sku": "DF-RUBY-800",
+    "price": 22400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 700 Plant Tray",
+    "sku": "DF-RUBY-700",
+    "price": 20300.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 500 Plant Tray",
+    "sku": "DF-RUBY-500",
+    "price": 16000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 400 Plant Tray",
+    "sku": "DF-RUBY-400",
+    "price": 13200.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 300 Plant Tray",
+    "sku": "DF-RUBY-300",
+    "price": 10200.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 250 Plant Tray",
+    "sku": "DF-RUBY-250",
+    "price": 9000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 200 Plant Tray",
+    "sku": "DF-RUBY-200",
+    "price": 7600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 150 Plant Tray",
+    "sku": "DF-RUBY-150STD",
+    "price": 6000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 100 Plant Tray",
+    "sku": "DF-RUBY-100",
+    "price": 4300.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 50 Plant Tray",
+    "sku": "DF-RUBY-50",
+    "price": 2400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ruby Dragon Fruit Plants - 150 Plant Tray (Retail Pack)",
+    "sku": "DF-RUBY-RETAIL150",
+    "price": 5700.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 1,000 Plant Tray",
+    "sku": "DF-SWDC-1000",
+    "price": 45000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 900 Plant Tray",
+    "sku": "DF-SWDC-900",
+    "price": 41400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 800 Plant Tray",
+    "sku": "DF-SWDC-800",
+    "price": 37600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 700 Plant Tray",
+    "sku": "DF-SWDC-700",
+    "price": 33600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 600 Plant Tray",
+    "sku": "DF-SWDC-600",
+    "price": 29400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 500 Plant Tray",
+    "sku": "DF-SWDC-500",
+    "price": 25000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 400 Plant Tray",
+    "sku": "DF-SWDC-400",
+    "price": 20400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 300 Plant Tray",
+    "sku": "DF-SWDC-300",
+    "price": 15600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 250 Plant Tray",
+    "sku": "DF-SWDC-250",
+    "price": 13250.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 200 Plant Tray",
+    "sku": "DF-SWDC-200",
+    "price": 10800.0,
+    "sale_price": null
+  },
+  {
+    "name": "Sweet White Crystal Dragon Fruit Plants - 150 Plant Tray",
+    "sku": "DF-SWDC-150",
+    "price": 8250.0,
+    "sale_price": null
+  },
+  {
+    "name": "Black Dragon Fruit Africana Hybrid - 1,000 Plant Tray",
+    "sku": "DF-BDAF-1000",
+    "price": 78000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Black Dragon Fruit Africana Hybrid - 600 Plant Tray",
+    "sku": "DF-BDAF-600",
+    "price": 48000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Golden Israel - 600 Plant Tray",
+    "sku": "DF-GI-600",
+    "price": 45000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Yellow Phalora",
+    "sku": "DF-VAR-YELLOWPHALORA",
+    "price": 1000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Peruvian Yellow",
+    "sku": "DF-VAR-PERUYELLOW",
+    "price": 800.0,
+    "sale_price": null
+  },
+  {
+    "name": "Ecuador Palora",
+    "sku": "DF-VAR-ECUADORPALORA",
+    "price": 800.0,
+    "sale_price": null
+  },
+  {
+    "name": "La Verne Red",
+    "sku": "DF-VAR-LAVERNE",
+    "price": 1000.0,
+    "sale_price": null
+  },
+  {
+    "name": "Desert Princess",
+    "sku": "DF-VAR-DESERTPRINCESS",
+    "price": 600.0,
+    "sale_price": null
+  },
+  {
+    "name": "Vietnam Green Skin Red Flesh",
+    "sku": "DF-VAR-VIETGREEN",
+    "price": 600.0,
+    "sale_price": null
+  },
+  {
+    "name": "American Beauty",
+    "sku": "DF-VAR-AMERICANBEAUTY",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Arizona Purple",
+    "sku": "DF-VAR-ARIZONAPURPLE",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Bundy Red Hybrid",
+    "sku": "DF-VAR-BUNDYREDHYBRID",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Cosmic Charlie",
+    "sku": "DF-VAR-COSMICCHARLIE",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Physical Graffiti",
+    "sku": "DF-VAR-PHYSICALGRAFFITI",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Purple Megalanthus",
+    "sku": "DF-VAR-PURPLEMEGALANTHUS",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Townsend Pink",
+    "sku": "DF-VAR-TOWNSENDPINK",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Valdivia Roja",
+    "sku": "DF-VAR-VALDIVIAROJA",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "White King Hollywood",
+    "sku": "DF-VAR-WHITEKINGHOLLYWOOD",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "White Sapphire",
+    "sku": "DF-VAR-WHITESAPPHIRE",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "White Supreme",
+    "sku": "DF-VAR-WHITESUPREME",
+    "price": 400.0,
+    "sale_price": null
+  },
+  {
+    "name": "Agricultural Funding Manual & Contact Directory",
+    "sku": "SERV-FUNDING",
+    "price": 250,
+    "sale_price": null
+  },
+  {
+    "name": "One-on-One Consultation (1.5 hours)",
+    "sku": "SERV-1ON1",
+    "price": 250,
+    "sale_price": null
+  },
+  {
+    "name": "Video Consultation",
+    "sku": "SERV-VIDEO",
+    "price": 250,
+    "sale_price": null
+  },
+  {
+    "name": "Farm Visit & Consultation Package",
+    "sku": "SERV-FARMVISIT",
+    "price": 850,
+    "sale_price": null
+  },
+  {
+    "name": "Premium Genetics Consultation",
+    "sku": "SERV-PREMGEN",
+    "price": 850,
+    "sale_price": null
+  },
+  {
+    "name": "Farm Setup Consulting Package",
+    "sku": "SERV-FARMSETUP",
+    "price": 1850,
+    "sale_price": null
+  },
+  {
+    "name": "Cutting Rooting Service",
+    "sku": "SERV-ROOTING",
+    "price": 30,
     "sale_price": null
   }
 ]
